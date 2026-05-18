@@ -1,8 +1,8 @@
 # test
 hi
 
-[![Test][img-shield]][shield-url]
+[![Burger Music][img-shield]][shield-url]
 
 
-[img-shield]: https://img.shields.io/badge/Burger%20Music-8A2BE2
-[shield-url]: https://www.youtube.com/
+[img-shield]: https://img.shields.io/badge/logo-youtube-purple?logo=youtube&logoColor=f5f5f5
+[shield-url]: https://www.youtube.com/watch?v=Z-n_DrZkoi8
