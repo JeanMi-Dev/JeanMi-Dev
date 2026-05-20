@@ -7,9 +7,9 @@ hi
 
 𝚃𝚎𝚌𝚑 𝚜𝚝𝚊𝚌𝚔
 
-[![Javascript][tiktok-shield]][tiktok-url]
-[![React][spotify-shield]][spotify-url]
-[![Express][tiktok-shield]][tiktok-url]
+[![Javascript][javascript-shield]][javascript-url]
+[![React][react-shield]][react-url]
+[![Express][express-shield]][express-url]
 [![Postgesql][postgres-shield]][postgres-url]
 
 [tiktok-shield]: https://img.shields.io/badge/tiktok-1A1918?style=for-the-badge&logo=tiktok
