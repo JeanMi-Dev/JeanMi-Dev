@@ -1,12 +1,15 @@
-# test
+# 𝙹𝚎𝚊𝚗-𝚖𝚒
 hi
 
 [![Tiktok][tiktok-shield]][tiktok-url]
 [![Spotify][spotify-shield]][spotify-url]
 
 
+
 𝚃𝚎𝚌𝚑 𝚜𝚝𝚊𝚌𝚔
 
+[![HTML5][html-shield]][html-url]
+[![CSS][css-shield]][css-url]
 [![Javascript][javascript-shield]][javascript-url]
 [![React][react-shield]][react-url]
 [![Express][express-shield]][express-url]
@@ -17,6 +20,10 @@ hi
 [spotify-shield]: https://img.shields.io/badge/spotify-1A1918?style=for-the-badge&logo=spotify
 [spotify-url]: https://open.spotify.com/user/31ww66zvqk2ogagqhj77geylcjva
 
+[html-shield]: https://img.shields.io/badge/HTML5-1A1918?style=for-the-badge&logo=HTML5&logoColor=white
+[html-url]: https://www.w3schools.com/Html/
+[css-shield]: https://img.shields.io/badge/CSS-1A1918?style=for-the-badge&logo=css&logoColor=white
+[css-url]: https://www.w3schools.com/css/
 [javascript-shield]: https://img.shields.io/badge/javascript-1A1918?style=for-the-badge&logo=javascript&logoColor=white
 [javascript-url]: https://www.javascript.com/
 [react-shield]: https://img.shields.io/badge/React-1A1918?style=for-the-badge&logo=react&logoColor=white
